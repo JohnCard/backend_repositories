@@ -1,0 +1,2 @@
+Command to open the local jupyter server:
+docker run -it --rm -p 8889:8888 jupyter/pyspark-notebook
